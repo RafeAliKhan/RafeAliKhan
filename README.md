@@ -1,5 +1,5 @@
 # 💫 About Me:
-•Strengthening DSA & problem-solving<br>•Building real-world projects<br><br>•Open-source and student-led tech projects<br><br>•Understanding real-world backend architecture<br>•Optimizing algorithms and code efficiency<br><br>•I’m currently learning:<br>•Data Structures & Algorithms (DSA)<br>•Python & React<br>•Writing better, production-ready code
+•Strengthening DSA & problem-solving<br>•Building real-world projects<br><br>•Open-source and student-led tech projects<br><br>•Understanding real-world backend architecture<br>•Optimizing algorithms and code efficiency<br><br>•I’m currently learning:<br>•Data Structures & Algorithms (DSA)<br>•Python & Java<br>•Writing better, production-ready code
 
 
 ## 🌐 Socials:
