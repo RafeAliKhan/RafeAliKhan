@@ -1,7 +1,6 @@
 # 💫 About Me:
 •Strengthening DSA & problem-solving<br>•Building real-world projects<br><br>•Open-source and student-led tech projects<br><br>•Understanding real-world backend architecture<br>•Optimizing algorithms and code efficiency<br><br>•I’m currently learning:<br>•Data Structures & Algorithms (DSA)<br>•Python & Java<br>•Writing better, production-ready code
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rafe-ali-khan-828b9b331) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rafek3651@gmail.com) 
 
@@ -11,10 +10,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=RafeAliKhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RafeAliKhan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafeAliKhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RafeAliKhan&theme=dark&no-frame=false&no-bg=true&margin-w=4)
----
-[![](https://visitcount.itsvg.in/api?id=RafeAliKhan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
