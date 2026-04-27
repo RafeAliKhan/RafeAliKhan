@@ -1,7 +1,5 @@
-# 👋 Hi, I'm **Rafe Khan**
-
-🚀 Computer Science Student 
-
+# **Rafe Ali Khan**
+Computer Science Student 
 ---
 
 ## 💡 About Me  
