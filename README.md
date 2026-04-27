@@ -1,5 +1,38 @@
-# 💫 About Me:
-•Strengthening DSA & problem-solving<br>•Building real-world projects<br><br>•Open-source and student-led tech projects<br><br>•Understanding real-world backend architecture<br>•Optimizing algorithms and code efficiency<br><br>•I’m currently learning:<br>•Data Structures & Algorithms (DSA)<br>•Python & Java<br>•Writing better, production-ready code
+# 👋 Hi, I'm **Rafe Khan**
+
+🚀 Computer Science Student 
+
+---
+
+## 💡 About Me  
+I am a Computer Science student focused on building strong foundations in **Data Structures, Algorithms, and scalable software systems**.  
+I enjoy transforming concepts into real-world applications and continuously improving the quality and efficiency of my code.
+
+---
+
+## 🚀 What I’m Working On  
+- Strengthening **DSA & problem-solving skills**  
+- Building **real-world, production-level projects**  
+- Contributing to **open-source and student-led tech initiatives**  
+- Understanding **backend architecture & system design**  
+- Writing **clean, efficient, and optimized code**
+
+---
+
+## 📚 Currently Learning  
+- **Data Structures & Algorithms (DSA)**  
+- **Python & Java**  
+- Writing **production-ready, maintainable code**  
+- Core subjects: **DBMS, OS, CN, OOPs**
+
+---
+
+## ⚙️ Tech Stack  
+- 💻 Languages: **Python, Java, Javascript, Typescript**  
+- 🛠️ Tools: **Git, GitHub, VS Code, Docker, Vercel**  
+- 📌 Concepts: **DSA, OOP, Debugging, Problem Solving**
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rafe-ali-khan-828b9b331) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rafek3651@gmail.com) 
