@@ -40,4 +40,3 @@ I enjoy transforming concepts into real-world applications and continuously impr
 
 [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=RafeAliKhan&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
 <br>
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafeAliKhan&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
