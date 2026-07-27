@@ -39,7 +39,5 @@ I enjoy transforming concepts into real-world applications and continuously impr
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafealikhan&label=Profile%20views&color=0e75b6&style=flat" alt="rafealikhan" /> </p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafeAliKhan) 
-
-![](https://github-readme-stats.vercel.app/api?username=RafeAliKhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RafeAliKhan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafeAliKhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
+![](https://github-readme-stats.vercel.app/api?username=RafeAliKhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
